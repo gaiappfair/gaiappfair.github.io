@@ -1,0 +1,66 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+#main {
+    background: url("../img/background.jpg") center no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    min-height: 750px;
+    width: 100%;
+}
+#gai-logo{
+    height: 30%;
+    width: 30%;
+}
+#title {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Raleway serif;
+    font-size: 5em;
+    margin-bottom: 2%;
+}
+#date {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Raleway serif;
+    margin-top: 0;
+    font-size: 3em;
+    margin-bottom: 5%;
+}
+#eventbrite {
+    text-align: center;
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#info {
+    text-align: center;
+    margin-top: 7%;
+    font-family: Dosis serif;
+}
+h3 {
+    font-size: 30px;
+    font-family: Dosis serif;
+    color: #666666;
+}
+p {
+    font-size: 15px;
+    font-family: Dosis serif;
+    color: #777777;
+}
+footer {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+hr {
+    color: #DDDDDD;
+    margin-top: 5%;
+}
+#facebook {
+    margin-top: 2%;
+}
